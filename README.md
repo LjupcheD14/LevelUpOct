@@ -14,7 +14,7 @@ To get started with the LevelUp project, follow these steps:
 
 Clone the repository: Clone the project repository to your local machine using the Git clone command.
 
-# The solution
+### The solution
 Used technologies:
 Java version: 17.0.8;
 Spring boot version: 3.1.4;
@@ -22,11 +22,11 @@ React version: 18.2.0;
 Axios version: 1.5.1;
 
 
-# Start the backend application:
+### Start the backend application:
 
 Run the java spring boot application, The backend application will be running on "localhost:8080".
 
-# Start the frontend application:
+### Start the frontend application:
 Navigate to the "LevelUpAcademyOctober/react-frontend" directory in your terminal or command prompt. Run the command "npm start" to start the frontend application. The frontend application will be running on "localhost:3000".
 
 By following these steps, you will have both the backend and frontend applications up and running, allowing you to work on the LevelUp project.
