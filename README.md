@@ -18,6 +18,7 @@ Clone the repository: Clone the project repository to your local machine using t
 Used technologies:
 Java version: 17.0.8;
 Spring boot version: 3.1.4;
+Apache Maven 3.9.4
 React version: 18.2.0;
 Axios version: 1.5.1;
 Bootstrap version 5.3.2;
