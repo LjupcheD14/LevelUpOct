@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.resultText{
+    color: green;
+    font-weight: bold;
+}
+.divCustomContainer{
+    background-color: #eae9f9;
+    border: 10px solid #3f3bc5;
+    border-radius: 10px;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.divH1{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.inputWidth{
+    width: 50%;
+}
+.buttonSubmitColor{
+    background-color: #3f3bc5;
+}
+.fontSans{
+    font-family: 'Open Sans', sans-serif;
+}
+.finalResultStyle{
+    margin-top: 20px;
+}
