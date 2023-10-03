@@ -16,10 +16,10 @@ Clone the repository: Clone the project repository to your local machine using t
 
 # The solution
 Used technologies:
-Java version: 17.0.8
-Spring boot version: 3.1.4
-React version: 18.2.0
-Axios version: 1.5.1
+Java version: 17.0.8;
+Spring boot version: 3.1.4;
+React version: 18.2.0;
+Axios version: 1.5.1;
 
 
 # Start the backend application:
