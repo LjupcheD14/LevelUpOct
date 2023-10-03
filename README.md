@@ -9,6 +9,10 @@ The PAN (card number) is between 16 and 19 digits long Last digit of the PAN (ca
 
 We’d like to see you implement at least Points 1 to 3 so that we have something to discuss, but feel free to give Point 4 a try as well :)
 
+# Note
+This solution is in React-frontend and Java spring boot backend.
+I have a solution for the same task in React-frontend and Node-backend, the solution: https://github.com/LjupcheD14/LevelUp
+
 ### The solution
 Used technologies:
 Java version: 17.0.8;
@@ -17,10 +21,6 @@ Apache Maven 3.9.4
 React version: 18.2.0;
 Axios version: 1.5.1;
 Bootstrap version 5.3.2;
-
-# Note
-This solution is in React-frontend and Java spring boot backend.
-I have a solution for the same task in React-frontend and Node-backend, the solution: https://github.com/LjupcheD14/LevelUp
 
 # LevelUp Project Setup:
 To get started with the LevelUp project, follow these steps:
